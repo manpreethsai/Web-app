@@ -9,4 +9,4 @@ This reservation system has three modules.
 2. Second module helps him to reserve a ticket. 
    - Second module inserts values into the tables on reservation.  
 3. Using third module he can cancel a reserved ticket.   
-    - Third module deletes values from the table on cancellation of tickets.
+   -Third module deletes values from the table on cancellation of tickets.
